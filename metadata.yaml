@@ -1,0 +1,44 @@
+_repo: The-Rose-and-the-Ring_897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: "The Rose and The Ring is a satirical work of fantasy fiction written\
+  \ by William Makepeace Thackeray, originally published at Christmas 1854 (though\
+  \ dated 1855). It criticises, to some extent, the attitudes of the monarchy and\
+  \ those at the top of society and challenges their ideals of beauty and marriage.\n\
+  Set in the fictional countries of Paflagonia and Crim Tartary, the story revolves\
+  \ around the lives and fortunes of four young royal cousins, Princesses Angelica\
+  \ and Rosalba, and Princes Bulbo and Giglio. Each page is headed by a line of poetry\
+  \ summing up the plot at that point and the storyline as a whole is laid out, as\
+  \ the book states, as \"A Fireside Pantomime\". The original edition had illustrations\
+  \ by Thackeray who had once intended a career as an illustrator.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '897'
+  wikidata: Q7761552
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Fairy tales'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+title: The Rose and the Ring
+url: http://www.gutenberg.org/ebooks/897
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Rose_and_the_Ring
+- https://pl.wikipedia.org/wiki/Pier%C5%9Bcie%C5%84_i_r%C3%B3%C5%BCa
