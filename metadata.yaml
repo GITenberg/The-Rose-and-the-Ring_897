@@ -1,5 +1,8 @@
 _repo: The-Rose-and-the-Ring_897
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -22,6 +25,8 @@ description: "The Rose and The Ring is a satirical work of fantasy fiction writt
   \ the book states, as \"A Fireside Pantomime\". The original edition had illustrations\
   \ by Thackeray who had once intended a career as an illustrator.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/897#The-Rose-and-the-Ring
 gutenberg_issued: '2006-02-05'
 gutenberg_type: Text
 identifiers:
